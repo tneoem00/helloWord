@@ -1,0 +1,16 @@
+body{
+    padding: 15px;
+}
+h1{
+    color: blue;
+    font-family: Arial;
+}
+.my-title{
+    color: deeppink;
+}
+#click-me-button{
+    padding: 10px 15px;
+    background-color: lightblue;
+    border: none;
+    font-size: 14px;
+}
